@@ -4,11 +4,12 @@ title: talks
 permalink: /downloads/talks/
 nav: false
 ---
-
 Slides are linked where available.
 
 ## Invited talks
 
+- Mémorisation et hallucinations dans les LLMs, colloque Medialect "L'intelligence artificielle générative dans les pratiques de la formation et la recherche: enjeux et défis", Paris, 02-03/10/2026
+- La mémoire dans les grands modèles de langage, MUFRAMEX réseau Science, Paris, 23/09/2026
 - Detecting the misuse of AI in higher education: situation and perspectives. [IEEE ITHET 2024](https://dsps.univ-paris13.fr/ithet-2024/), Aubervilliers, 7 November 2024
 - Table ronde sur le futur de l'IA et du TAL, IC - PFIA 2024, La Rochelle, 5 July 2024
 - Building Scientific Knowledge Graphs from Scholarly Data. DOING@MADICS webinar, 17 June 2021
@@ -41,3 +42,4 @@ Slides are linked where available.
 - [Ontologies et Recherche d'Information](https://docs.google.com/open?id=0B4fIGMiLIalUOV85M2tEWTNvTWc). LIPN, 8 October 2012 (in French)
 - [Toponym Disambiguation in Information Retrieval](https://docs.google.com/open?id=0B4fIGMiLIalUelFCdnZlMVF6ZzA). LIFO, 31 January 2011
 - [Toponym Ambiguity in Information Retrieval](https://docs.google.com/open?id=0B4fIGMiLIalUVWF5ekZ0MjQ4RWc). INAOE, Puebla, Mexico, 10 July 2010
+
