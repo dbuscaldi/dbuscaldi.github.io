@@ -23,6 +23,10 @@ nav_order: 2
 
 - [M1 TAL : Introduction au traitement des langues](/teaching/ig-m1-tal/)
 
+### UFR Sciences de l'Information et de la Communication
+
+- UE13.6 Machine Learning & Deep Learning
+
 ## École Polytechnique
 
 Le matériel pour les cours de l'École polytechnique est disponible sur le Moodle de l'X (accès réservé). Sur ce site vous pouvez trouver des informations générales et logistiques.
