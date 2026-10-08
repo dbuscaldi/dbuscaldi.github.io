@@ -4,7 +4,6 @@ title: research
 permalink: /research/
 nav: false
 ---
-
 My research lies at the crossroads of symbolic and neural artificial intelligence, with a focus on extracting, representing and exploiting knowledge through knowledge graphs, natural language processing and machine learning. I tend to work at the interfaces: between symbolic representation and statistical learning, between fundamental methods and high-impact applications, and between the analysis of everyday language and the understanding of online behaviour.
 
 See also: [publications](/publications/), [projects](/research/projects/), [events](/research/events/), [talks](/downloads/talks/).
@@ -38,12 +37,6 @@ From the characterisation of semantic relations to better graph neural networks.
 - Detection of figurative language, irony and humour (Data & Knowledge Engineering 2012; IEEE Computational Intelligence Magazine 2019)
 - Identification of malicious online behaviour: bots, content spammers, trolls (EJASA 2020; TexTrolls; ECNLP 2024)
 - Classification of multimodal hateful content (CLEF 2024)
-
-## Ongoing work
-
-**Extraction of uncertain or imprecise knowledge.** Knowledge extraction usually treats facts as absolute, while text often qualifies them with conditions, scope or negation. I am working on LLM-based frameworks that extract qualified triples together with an uncertainty or imprecision score.
-
-**The "amygdala effect" in LLMs.** In humans, emotionally salient stimuli are memorized preferentially. We study whether a similar prioritisation emerges in transformer models, by analysing attention, internal representations and memorization of emotionally charged versus neutral training data. This line of work is developed in Tian Fang's PhD thesis.
 
 ## PhD students
 
@@ -162,4 +155,4 @@ Visiting professors I have hosted at LIPN: Francesco Osborne (2017), Manuel Mont
 
 ## CV
 
-A short [CV](https://docs.google.com/document/d/1ARtTBMv6pcYJ8xnxW6LCqO1Vmkhh4qKTemCWkuIo_lY/edit?usp=sharing) in English (last update: September 2022).
+A  [CV](https://github.com/dbuscaldi/dbuscaldi.github.io/blob/main/assets/img/Extended_CV_French%20(8).pdf) in French (last update: March 2026).
