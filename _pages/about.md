@@ -8,7 +8,7 @@ subtitle: Maître de Conférences (Associate Professor) HDR, <a
   href="https://www.polytechnique.edu/">Ecole Polytechnique</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false
   more_info: |
     buscaldi [at] lipn.fr <br>
