@@ -4,15 +4,15 @@ title: research
 permalink: /research/
 nav: false
 ---
-My research lies at the crossroads of symbolic and neural artificial intelligence, with a focus on extracting, representing and exploiting knowledge through knowledge graphs, natural language processing and machine learning. I tend to work at the interfaces: between symbolic representation and statistical learning, between fundamental methods and high-impact applications, and between the analysis of everyday language and the understanding of online behaviour.
+My research lies at the crossroads of symbolic and neural artificial intelligence, with a focus on extracting, representing and exploiting knowledge through knowledge graphs, natural language processing and machine learning.
 
 See also: [publications](/publications/), [projects](/research/projects/), [events](/research/events/), [talks](/downloads/talks/).
 
 ## Research axes
 
-### Structural and geometric representation of graphs
+### Knowledge Graphs and GNNs
 
-From the characterisation of semantic relations to better graph neural networks.
+From the characterisation of semantic relations to graph neural networks.
 
 - Extraction and classification of semantic relations (SemEval-2018 Task 7, EMNLP 2017, IDA 2016)
 - Construction of large-scale knowledge graphs (AI-KG, ISWC 2020; CS-KG, ISWC 2022)
@@ -81,21 +81,31 @@ From the characterisation of semantic relations to better graph neural networks.
 - Mija Pilkaite (2022): classification of weather events with the ESWD database
 - Merlin Beaufils (2020): representation learning for web pages, with ASAPP (USA)
 
-### Research internships
+### Supervision of research internships
 
+++**Master Level**++
+
+- Stepan Svirin (2025-26): detecting errors in KGs using geometric information
+- Arpi Hunanyan (2025): studying the effect of emotions on the "Lost in the middle" effect for RAGs
+- Romain Harang (2020): language models for tweet geolocation (EGC 2021 workshop)
+
+++**Bachelor Level**++
+
+- Andrei Stirbu (2026): transformer-based route reconstruction of AIS maritime tracks
+- Matheus Ferreira (2026): two-stages GNNs for node classification tasks
+- Eleonore Hasler (2024-25): geographic biases in LLMs
 - Jonas Treplin and Emre Belge (2023): unsupervised and semi-supervised hallucination detection in language models
 - Pénélope Forcioli and Liam Loughman (2023): detection of automatically generated text (ECNLP 2024)
 - Ekaterina Borisova and Antonina Mijatovic (2022): visual word sense disambiguation with multimodal models (SemEval 2023)
 - Dzhal Antonov (2022): relation classification in scientific knowledge graphs (ESWC 2023 workshop)
 - Mark Daychman (2022): clustering CS-KG relations with neural embeddings
-- Romain Harang (2020): language models for tweet geolocation (EGC 2021 workshop)
 
-## Collaborations
+## International Collaborations
 
 I am Scientific Communications Coordinator and French Management Committee member of the [COST Action KGELL](https://www.cost.eu/actions/CA24121/), which gathers more than 200 members from over 35 countries. I collaborate regularly with:
 
 - Italy: Università di Cagliari (Diego Reforgiato Recupero), Università di Genova (Barbara Catania, Giovanna Guerrini)
-- Spain: Universidad Politécnica de Valencia (Emilio Sanchis, Paolo Rosso), Universidad de Sevilla (Daniel Ayala, Agustín Borrego)
+- Spain: Universidad Politécnica de Valencia (Emilio Sanchis, Paolo Rosso), Universidad de Sevilla (Daniel Ayala, Agustín Borrego), Universidad de Málaga (María del Mar Roldán)
 - United Kingdom: Open University, Knowledge Media Institute (Francesco Osborne)
 - Mexico: UAM (Belém Priego Sánchez), INAOE Puebla (Manuel Montes, Luis Villaseñor)
 - Ireland: TU Dublin (Fernando Pérez-Téllez)
@@ -138,15 +148,9 @@ Visiting professors I have hosted at LIPN: Francesco Osborne (2017), Manuel Mont
 - **PhD "cum laude"** in Pattern Recognition and Artificial Intelligence, Universidad Politécnica de Valencia, 29 October 2010, European doctor mention. Toponym Disambiguation in Information Retrieval, supervised by Paolo Rosso. Jury: Paul Clough, Ross Purves, Emilio Sanchis, Mark Sanderson, Diana Santos. [RiuNet](https://riunet.upv.es/handle/10251/8912)
 - **Laurea (B.Sc. + M.Sc.) in Computer Science**, Università degli Studi di Genova, 2004. Knowledge-based Word Sense Disambiguation, supervised by Giorgio Delzanno.
 
-## Positions
-
-- Since 2020: part-time Lecturer (Chargé d'enseignement), Computer Science Department (DIX), École Polytechnique
-- Since 2012: Associate Professor (Maître de conférences), LIPN, Université Sorbonne Paris Nord
-- 2011-2012: Postdoc, IRIT, Toulouse
-- 2011: Postdoc, LIFO, Université d'Orléans
-
 ## Awards and grants
 
+- Best paper mention at EGC2024
 - Best poster award at the 5th Franco-Polish forum for Research and Innovation, 2019
 - [Visiting professor](http://people.unica.it/visitingprofessor/) grant from the University of Cagliari, May 2017
 - GVA grant for a 3-month doctoral stay at FBK-IRST, Trento, under the supervision of Bernardo Magnini, 2009
