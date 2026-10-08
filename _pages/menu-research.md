@@ -11,7 +11,7 @@ children:
     permalink: /publications/
   - title: projects
     permalink: /research/projects/
-  - title: events and talks
+  - title: events
     permalink: /research/events/
   - title: news
     permalink: /news/
