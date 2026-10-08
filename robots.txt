@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dbuscaldi.github.io/sitemap.xml
+Sitemap: https://buscaldi.eu/sitemap.xml
