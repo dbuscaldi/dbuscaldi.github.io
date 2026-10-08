@@ -1,0 +1,25 @@
+---
+---
+@charset "utf-8";
+@use "sass:math";
+@use "sass:string";
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default: "930px" }}
+);
+@use "themes";
+@use "layout";
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* Profile photo size: change 22% to taste (theme default is 30%) */
+@media (min-width: 576px) {
+  .profile { width: 22%; }
+}
