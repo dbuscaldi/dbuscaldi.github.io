@@ -4,7 +4,6 @@ title: projects
 permalink: /research/projects/
 nav: false
 ---
-
 ## Ongoing projects
 
 - **[KGELL: Knowledge Graphs in the Era of Large Language Models](https://www.cost.eu/actions/CA24121/)**, EU COST Action CA24121 (2025-2029). Proposer, French Management Committee member and elected Scientific Communications Coordinator. Project website: [kgell-cost.eu](https://kgell-cost.eu/)
@@ -14,7 +13,6 @@ nav: false
 ## Past projects
 
 - **[GeoLiaison](https://sites.google.com/view/geoliaison/accueil)**: studying the geographical and geospatial awareness of Large Language Models (2024-2025). PHC Procope France-Germany project with Coburg University of Applied Sciences; PI for LIPN
-- **Chaire X-Crédit Agricole "IA responsable et de confiance"**, École Polytechnique (2024-2025), led by Sonia Vanier: definition and co-supervision of two PhD theses on trustworthy AI
 - **[PhilHumans](https://www.philhumans.eu/)**: Personal Health Interfaces Leveraging Human-machine Natural interactions (2018-2023). EU H2020 MSCA-ITN Industrial Doctorate (GA 812882), with Philips Research and several European universities; LIPN coordinator
 - **BQR USPN**: "Plongements lexicaux pour l'acquisition et la structuration de connaissances", exploratory project on embeddings for relation classification and clustering in scientific knowledge graphs; PI
 - CampusFrance "Polonium" project on sentiment analysis and irony detection, with the Pedagogical University of Kraków, Poland
@@ -32,7 +30,8 @@ nav: false
 
 ## Industrial collaborations
 
-- Synerview, Paris (2026): hallucination mitigation, LLMs for automated monitoring
+- **Chaire X-Crédit Agricole "IA responsable et de confiance"**, École Polytechnique (2024-2025): definition and co-supervision of two PhD theses on trustworthy AI
 - Newscore, Paris (2024): retrieval-augmented generation for personalised web monitoring
 - AI Zwei, New York (2022): NLP and LLM methods for an enterprise chatbot
 - API Conseil, Pau (2021): relation extraction from patent data
+
