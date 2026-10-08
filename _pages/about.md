@@ -4,15 +4,15 @@ title: profile
 permalink: /
 subtitle: Maître de Conférences (Associate Professor) HDR, <a
   href="https://lipn.fr">LIPN</a>, <a href="https://www.univ-spn.fr/">Université
-  Sorbonne Paris Nord</a>
+  Sorbonne Paris Nord</a><br>Professeur Chargé de Cours, <a
+  href="https://www.polytechnique.edu/">Ecole Polytechnique</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: |
-    <p>Office Y205, Hypatia building</p>
-    <p>LIPN, Université Sorbonne Paris Nord</p>
-    <p>99 avenue Jean-Baptiste Clément</p> <p>93430 Villetaneuse, France</p>
+    buscaldi [at] lipn.fr <br>
+    davide.buscaldi [at] polytechnique.edu <br>
 selected_papers: true
 social: true
 announcements:
