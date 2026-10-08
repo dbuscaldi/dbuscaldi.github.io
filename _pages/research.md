@@ -73,7 +73,7 @@ From the characterisation of semantic relations to better graph neural networks.
 
 ### Bachelor theses, École Polytechnique
 
-- Kingshuk Gupta (2026): adapting the Ghost-in-transformer methodology to detect hallucination spans
+- Kingshuk Gupta (2026): adapting the Ghost-in-transformer methodology to detect hallucination spans **best X BSc Thesis prize**
 - Marc Saadé (2026): GNNs for low-CO2 route prediction in maritime shipping
 - Jay Ansh Bindra (2026): deep learning for the prediction of collisions in dense marine traffic
 - Andrea Foffani Pifarré (2024): LLM-based extraction of semantic triples from text
