@@ -5,6 +5,8 @@ nav: true
 nav_order: 3
 dropdown: true
 children:
+  - title: overview
+    permalink: /downloads/
   - title: resources
     permalink: /downloads/resources/
   - title: software

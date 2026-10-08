@@ -66,7 +66,6 @@ content:
     exclude:
       - about.md
       - publications.md
-      - teaching.md
       - news.md
       - 404.md
       - menu-research.md
@@ -74,7 +73,7 @@ content:
     view:
       fields: [title, permalink]
       primary: title
-      sort: title
+      sort: permalink
     fields:
       - { name: layout, type: string, hidden: true, default: page }
       - { name: title, label: Title (shown in menu and page header), type: string, required: true }
@@ -120,56 +119,6 @@ content:
         type: string
       - { name: related_posts, type: boolean, hidden: true, default: false }
       - { name: body, label: Text, type: rich-text }
-
-  # ---------------------------------------------------------------------------
-  # Courses (listed on /teaching/)
-  # ---------------------------------------------------------------------------
-  - name: courses
-    label: Teaching
-    type: collection
-    path: _teachings
-    format: yaml-frontmatter
-    view:
-      fields: [title, year, term]
-      primary: title
-      sort: year
-      order: desc
-    fields:
-      - { name: layout, type: string, hidden: true, default: course }
-      - name: title
-        type: string
-        required: true
-        description: e.g. [EP] INF582 - NLP
-      - name: course_id
-        label: Course ID (lowercase, no spaces)
-        type: string
-        required: true
-        description: e.g. ep-inf582-nlp
-      - { name: description, type: text }
-      - { name: instructor, type: string, default: Davide Buscaldi }
-      - { name: year, type: number }
-      - name: term
-        type: select
-        options: { values: [Fall, Spring, Full year] }
-      - { name: location, label: Institution / room, type: string }
-      - { name: time, label: Schedule (days and hours), type: string }
-      - name: schedule
-        label: Sessions
-        type: object
-        list: true
-        fields:
-          - { name: week, type: number }
-          - { name: date, type: string }
-          - { name: topic, type: string }
-          - { name: description, type: text }
-          - name: materials
-            label: Materials (slides, labs, links)
-            type: object
-            list: true
-            fields:
-              - { name: name, type: string }
-              - { name: url, label: URL or file path, type: string }
-      - { name: body, label: Additional content, type: rich-text }
 
   # ---------------------------------------------------------------------------
   # Publications: the BibTeX file, edited as plain text
