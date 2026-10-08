@@ -8,7 +8,7 @@ subtitle: Maître de Conférences (Associate Professor) HDR, <a
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: |
     <p>99 avenue Jean-Baptiste Clément</p> <p>93430 Villetaneuse, France</p>
 selected_papers: true
