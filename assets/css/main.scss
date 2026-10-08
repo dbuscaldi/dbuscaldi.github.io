@@ -23,3 +23,24 @@
 @media (min-width: 576px) {
   .profile { width: 22%; }
 }
+
+/* Address block under the photo: smaller text */
+.profile .more-info {
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+/* Accent color (links, highlights, hover). Theme default: #b509ac */
+:root {
+  --global-theme-color: #1f6f8b;
+  --global-hover-color: #1f6f8b;
+  --global-code-bg-color: rgba(31, 111, 139, 0.05);
+}
+
+/* Accent color in dark mode: light cyan. Theme default: #2698ba */
+html[data-theme="dark"] {
+  --global-theme-color: #7fd8ee;
+  --global-hover-color: #7fd8ee;
+  --global-hover-text-color: #1c1c1d;
+}
+
