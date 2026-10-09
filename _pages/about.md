@@ -11,8 +11,7 @@ profile:
   image: prof_pic.png
   image_circular: false
   more_info: |
-    buscaldi [at] lipn.fr <br>
-    davide.buscaldi [at] polytechnique.edu <br>
+    buscaldi [at] lipn.fr
 selected_papers: true
 social: true
 announcements:
