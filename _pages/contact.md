@@ -5,6 +5,7 @@ permalink: /contact/
 description: I use different email addresses for different purposes; please pick the one that matches your request.
 nav: true
 nav_order: 4
+---
 <div class="contact-grid contact-grid-2">
   <div class="contact-card">
     <i class="fa-solid fa-flask contact-icon" aria-hidden="true"></i>
