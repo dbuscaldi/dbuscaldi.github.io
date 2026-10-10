@@ -7,19 +7,32 @@ nav_order: 4
 ---
 
 ## Email
+I have different e-mail addresses that I dedicate to different tasks/public.
 
-- davide.buscaldi [at] lipn.univ-paris13.fr (research)
-- davide.buscaldi [at] sorbonne-paris-nord.fr (teaching)
-- davide.buscaldi [at] polytechnique.edu (address at X)
-- davide.buscaldi [at] gmail.com (personal / keeping in touch)
+If you want to contact me about research (projects, papers, etc.), use:
+- davide.buscaldi@lipn.univ-paris13.fr or davide.buscaldi@polytechnique.edu
+
+If you are at IUT/USPN and you want to contact me about teaching, use:
+- davide.buscaldi@univ-paris13.fr
+
+If you are at Polytechnique and you want to contact me about teaching/PRLs/Bachelor theses, use:
+- davide.buscaldi@polytechnique.edu
+
+Finally, everything not work-related goes here:
+- davide.buscaldi@gmail.com
 
 ## Address
 
-Bureau B211, LIPN<br>
+Bureau Y205, LIPN (Bâtiment Hypatia)<br>
 Université Sorbonne Paris Nord, Campus de Villetaneuse<br>
 99 Avenue Jean-Baptiste Clément<br>
 93430 Villetaneuse, France
 
+Bureau 1001<br>
+Bâtiment Alan Turing<br>
+LIX, Ecole Polytechnique
+91120, Palaiseau, France
+
 ## Phone
 
-+33 1 49 40 28 31 (fax: +33 1 48 26 07 12)
++33 1 49 40 28 31
