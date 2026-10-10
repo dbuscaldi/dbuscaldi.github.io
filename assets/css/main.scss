@@ -18,25 +18,25 @@
 @use "tabs";
 @use "teachings";
 @use "typograms";
-
+ 
 /* Profile photo size: change 22% to taste (theme default is 30%) */
 @media (min-width: 576px) {
   .profile { width: 22%; }
 }
-
+ 
 /* Address block under the photo: smaller text */
 .profile .more-info {
   font-size: 0.8rem;
   line-height: 1.4;
 }
-
+ 
 /* Accent color (links, highlights, hover). Theme default: #b509ac */
 :root {
   --global-theme-color: #1f6f8b;
   --global-hover-color: #1f6f8b;
   --global-code-bg-color: rgba(31, 111, 139, 0.05);
 }
-
+ 
 /* Accent color in dark mode: light cyan. Theme default: #2698ba */
 html[data-theme="dark"] {
   --global-theme-color: #7fd8ee;
@@ -47,4 +47,73 @@ html[data-theme="dark"] {
   --global-code-bg-color: #1b3428;
   --global-divider-color: #2e3d5e;
 }
-
+ 
+ 
+/* Contact page */
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+.contact-grid-2 {
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+}
+.contact-card {
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-top: 3px solid var(--global-theme-color);
+  border-radius: 6px;
+  padding: 1rem 1.1rem;
+}
+.contact-card h3 {
+  font-size: 1.05rem;
+  margin: 0.4rem 0 0.3rem;
+}
+.contact-card h4 {
+  font-size: 0.95rem;
+  margin: 0.8rem 0 0.3rem;
+}
+.contact-card p,
+.contact-card ul {
+  margin-bottom: 0.4rem;
+}
+.contact-card ul {
+  padding-left: 1.1rem;
+  font-size: 0.9rem;
+}
+.contact-icon {
+  font-size: 1.4rem;
+  color: var(--global-theme-color);
+}
+.contact-mail {
+  font-family: monospace;
+  font-size: 0.82rem;
+  overflow-wrap: anywhere;
+}
+.contact-hint {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+}
+.contact-links a {
+  margin-right: 1rem;
+  white-space: nowrap;
+}
+.contact-profiles {
+  text-align: center;
+  margin-top: 1rem;
+}
+.contact-profiles p {
+  margin-bottom: 0.3rem;
+  color: var(--global-text-color-light);
+}
+.contact-profiles .contact-icons {
+  font-size: 2rem;
+}
+.contact-profiles .contact-icons a {
+  margin: 0 0.4rem;
+}
+.contact-profiles .contact-icons img {
+  width: 2rem;
+  height: 2rem;
+}
