@@ -159,4 +159,4 @@ Visiting professors I have hosted at LIPN: Francesco Osborne (2017), Manuel Mont
 
 ## CV
 
-A  [CV](https://github.com/dbuscaldi/dbuscaldi.github.io/blob/main/assets/img/Extended_CV_French%20(8).pdf) in French (last update: March 2026).
+A  [CV](https://github.com/dbuscaldi/dbuscaldi.github.io/blob/main/assets/pdf/CV-French.pdf) in French (last update: March 2026).
