@@ -25,7 +25,7 @@ nav_order: 2
 
 ### UFR Sciences de l'Information et de la Communication
 
-- UE13.6 Machine Learning & Deep Learning
+- [UE13.6 Machine Learning & Deep Learning](/teaching/M2dimi_ml_dl)
 
 ## École Polytechnique
 
