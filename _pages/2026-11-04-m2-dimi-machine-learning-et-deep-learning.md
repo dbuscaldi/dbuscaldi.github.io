@@ -18,3 +18,5 @@ Pour les séances de TP nous allons utiliser Jupyter Notebook ou Colab.
 **Mots clés :** apprentissage, machine learning, réseaux de neurones, deep learning
 
 [Transparents du cours](https://dbuscaldi.github.io/assets/pdf/DIMI_Apprentissage_automatique.pdf)
+Partie pratique:
+- [Lab 1](https://dbuscaldi.github.io/assets/files/lab1_etud.zip)
