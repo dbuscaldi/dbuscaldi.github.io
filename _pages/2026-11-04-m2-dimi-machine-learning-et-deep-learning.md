@@ -19,4 +19,4 @@ Pour les séances de TP nous allons utiliser Jupyter Notebook ou Colab.
 
 [Transparents du cours](https://dbuscaldi.github.io/assets/pdf/DIMI_Apprentissage_automatique.pdf)
 Partie pratique:
-- [Lab 1](https://dbuscaldi.github.io/assets/files/lab1_etud.zip)
+- [Corrigé Lab 1](https://dbuscaldi.github.io/assets/files/TP1_corrige.zip)
